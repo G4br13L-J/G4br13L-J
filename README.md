@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi there, I'm Gabriel Jiménez
 
-<!--
-**G4br13L-J/G4br13L-J** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering Student at Universidad Nacional de Costa Rica  
+💻 Passionate about Web Development, Data Analysis, and Problem Solving  
+🌱 Currently learning Spring Boot, REST APIs, React and more  
+📊 Interested in Data Science and Machine Learning  
+📬 Reach me at: g4bojim3n4va@gmail.com  
 
-Here are some ideas to get you started:
+## 🧰 Technologies and Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Java](https://img.shields.io/badge/-Java-blue?logo=java&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/-SpringBoot-6DB33F?logo=spring&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-20232A?logo=react)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+
+## 📈 GitHub Stats
+
+![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=G4br13L-J&show_icons=true&theme=tokyonight)
+
