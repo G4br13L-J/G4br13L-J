@@ -70,8 +70,11 @@ Role: Scrum Master & Full Stack Developer
   _March 2022 – Present (expected graduation: June 2026)_
 
 - **Diploma in Computer Applications** – Universidad Nacional de Costa Rica  
-  _In progress_
+  _March 2022 – June 2025_
 
+- **SCRUM FUNDAMENTALS CERTIFIED** – SCRUMstudy
+  _April 2025_
+  
 ---
 
 ## 📬 Contact
