@@ -3,7 +3,7 @@
 🎓 Computer Engineering Student at Universidad Nacional de Costa Rica  
 💻 Passionate about Web Development, Data Analysis, and Problem Solving  
 🌱 Currently learning Spring Boot, REST APIs, React and more  
-📊 Interested in Data Science and Machine Learning  
+📊 Interested in the world of Data! (Data Analysis, Data Science, Data Engineering, Machine Learning)
 📬 Reach me at: g4bojim3n4va@gmail.com  
 
 ## 🧰 Technologies and Tools
