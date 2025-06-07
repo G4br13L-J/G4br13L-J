@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Gabriel Jiménez
 
-🎓 Computer Engineering Student at Universidad Nacional de Costa Rica  
+🎓 Systems Engineering Student at Universidad Nacional de Costa Rica  
 💻 Passionate about Web Development, Data Analysis, and Problem Solving  
 🌱 Currently learning Python, SQL, Excel, Cloud, Power BI and more!   
 📊 Interested in the world of Data! (Data Analysis, Data Science, Data Engineering, Machine Learning)
