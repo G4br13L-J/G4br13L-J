@@ -66,6 +66,21 @@ Role: Scrum Master & Full Stack Developer
 - Created dashboards with Power BI and interactive charts  
 - Repository available on GitHub
 
+### ☁️ Real-Time Data Pipeline with GCP & Dataflow  
+*Personal Begginer Cloud Project – 2025*
+- Built a data pipeline to ingest, transform, and load data from Cloud Storage to BigQuery using Apache Beam and Dataflow.
+- Designed pipeline steps including batch processing, filtering, schema definition, and data writing.
+- Learned to troubleshoot Dataflow jobs and interpret optimized execution stages.
+- Explored Cloud Storage buckets, BigQuery datasets, and managed IAM permissions.
+
+### ⚡ Scala-Spark Data Processing Pipeline  
+*Self-Directed Project – 2025*  
+- Designed and implemented data pipelines using Apache Spark and Scala for batch processing of large CSV datasets  
+- Developed Spark applications for data ingestion, transformation, aggregation, and visualization  
+- Utilized Spark SQL and DataFrame APIs for efficient data analysis  
+- Handled real-world data challenges such as schema inference, data cleaning, and performance tuning  
+- Improved skills in distributed computing and big data ecosystem tools
+
 ### 💻 Programming Labs  
 *Academic Projects – 2022 to 2024*  
 - Built console, desktop, and web apps using Java and C++  
