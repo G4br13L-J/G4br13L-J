@@ -55,7 +55,7 @@
 ## 📌 Featured Projects
 
 ### 🏛️ Operational Plan Manager  
-*Collaboration with the Municipality of Naranjo (March 2024 – June 2025)*  
+*Collaboration with Municipalidad de Naranjo (March 2024 – June 2025)*  
 Role: Scrum Master & Full Stack Developer  
 - Developed a planning and monitoring system tailored for municipal workflows  
 - Improved communication and project management skills
